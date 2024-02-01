@@ -1,2 +1,5 @@
 # M2_Lab1
- Javascript FunctionsThe Rock, Paper, Scissors Game
+
+ - The Rock, Paper, Scissors Game
+
+ - Practice Javascript Functions
